@@ -1,4 +1,4 @@
-import { Container, HeaderLogo, NavBar, NavLink } from "./styles";
+import { Container, HeaderLogo, NavBar, NavLink } from "./styles.module";
 import { BiBookContent } from "react-icons/bi";
 
 export const Header = () => {
