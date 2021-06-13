@@ -1,7 +1,9 @@
+import { HomeSection } from "./components/HomeSection";
+
 export default function Home() {
   return (
-    <div>
-      Hello World
-    </div>
-  )
+    <>
+      <HomeSection />
+    </>
+  );
 }
