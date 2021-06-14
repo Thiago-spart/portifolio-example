@@ -1,3 +1,4 @@
+import { Line } from "../../../Line";
 import { Card } from "./components/Card";
 
 import { Container, MainTitle, MainSubTitle, MainDiv } from "./styles";
@@ -12,8 +13,10 @@ export const ExperienceSection = () => {
           texto que a glr fala q tem uma paixão e pa mas mais focado a atrair a
           atenção de quem lê.
         </MainSubTitle>
+        <Line />
 
         <Card />
+        <Line />
         <Card />
       </MainDiv>
     </Container>

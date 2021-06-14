@@ -1,5 +1,8 @@
 import { ExperienceSection } from "./components/ExperienceSection";
 import { CertifiedSection } from "./components/CertifiedSection";
+
+import { Line } from "../Line";
+
 import { Container } from "./styles.module";
 
 export const AboutSection = () => {
@@ -13,6 +16,7 @@ export const AboutSection = () => {
           <CertifiedSection />
         </div>
       </Container>
+      <Line />
     </>
   );
 };
