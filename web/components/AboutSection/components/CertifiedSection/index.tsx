@@ -1,3 +1,4 @@
+import { Line } from "../../../Line";
 import { Card } from "./components/Card";
 import { CertifiedCard } from "./components/CertifiedCard";
 
@@ -7,8 +8,11 @@ export const CertifiedSection = () => {
   return (
     <Container>
       <Card />
+      <Line />
       <Card />
+      <Line />
       <Card />
+      <Line />
       <CertifiedCard />
     </Container>
   );
