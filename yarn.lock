@@ -1196,11 +1196,6 @@ locate-path@^5.0.0:
   dependencies:
     p-locate "^4.1.0"
 
-lodash.debounce@^4.0.8:
-  version "4.0.8"
-  resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
-  integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
-
 lodash.sortby@^4.7.0:
   version "4.7.0"
   resolved "https://registry.yarnpkg.com/lodash.sortby/-/lodash.sortby-4.7.0.tgz#edd14c824e2cc9c1e0b0a1b42bb5210516a42438"
@@ -1870,13 +1865,6 @@ strip-ansi@6.0.0:
   integrity sha512-AuvKTrTfQNYNIctbR1K/YGTR1756GycPsg7b9bdV9Duqur4gv6aKqHXah67Z8ImS7WEz5QVcOtlfW2rZEugt6w==
   dependencies:
     ansi-regex "^5.0.0"
-
-styled-components-carousel@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/styled-components-carousel/-/styled-components-carousel-0.2.0.tgz#a8e97c78a13f903af8c44bbd5b95404db822d2b6"
-  integrity sha512-4Umcb6VVaHkVqH2MAOtSYExetuUQ6KSMNSDyqJNdhJZnP3D8K0eTz1jBNhKtF5IbpFJ11f6FnxfjNI2UzKky6g==
-  dependencies:
-    lodash.debounce "^4.0.8"
 
 styled-components@^5.3.0:
   version "5.3.0"
